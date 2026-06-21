@@ -1,4 +1,4 @@
-module usart_RX(
+module uart_RX(
  input clk,
  input rst,
  input rx,
