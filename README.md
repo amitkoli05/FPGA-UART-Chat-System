@@ -1,4 +1,4 @@
-# FPGA-Based UART Chat System
+# FPGA-Based UART Communication Protocols
 
 ## Overview
 This project implements a UART (Universal Asynchronous Receiver Transmitter)
