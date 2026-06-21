@@ -26,4 +26,11 @@ The design includes:
 - Simulation and Debugging
 - Digital Communication Fundamentals
 
+## FYI
+IF u want to simulate and check....Copy the code and run it in modelSim software
+Make sure u download latest verion of the software
+
+**Download link for Modelsim :- https://www.altera.com/download-center/license-agreement/78136/d484e4c7882fca584a9b0243cbbd74953a4aeb25?filename=ModelSimSetup-20.1.1.720-windows.exe
+**
+
 ## THANK YOU :)
