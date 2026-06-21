@@ -1,8 +1,8 @@
 module usart_tx(
-    input clk,
-    input rst,
-    input [7:0] tx_data,
-    input tx_start,
+input clk,
+input rst,
+input [7:0] tx_data,
+input tx_start,
 
     output reg tx,
     output reg tx_done
