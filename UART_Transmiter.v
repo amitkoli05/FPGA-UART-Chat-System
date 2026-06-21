@@ -1,4 +1,4 @@
-module usart_tx(
+module uart_tx(
 input clk,
 input rst,
 input [7:0] tx_data,
