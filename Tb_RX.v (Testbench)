@@ -15,7 +15,7 @@ wire rx_done;
 
 
 // TX
-usart_tx #(
+uart_tx #(
     .BAUD_DIV(10)
 )
 TX(
@@ -29,7 +29,7 @@ TX(
 
 
 // RX
-usart_RX #(
+uart_RX #(
     .BAUD_DIV(10)
 )
 RX(
